@@ -1,0 +1,18 @@
+h3{
+  color: #60a5a5;
+}
+h1{
+  color: #60a5a5;
+}
+h2{
+  color: #635666;
+}
+body{
+  background-color: #D3EBCD;
+}
+hr{
+  height: 2px;
+  border-style: none;
+  border-top: inset;
+  border-color: black;
+}
